@@ -1,4 +1,4 @@
-# ITI_Embedded_AVR_Playground
+# ITI_Embedded_AVR_Labs
 ```bash
 cmake -S . -B build
 cmake --build build
